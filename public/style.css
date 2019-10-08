@@ -1,0 +1,9 @@
+body{
+    background: sandybrown;
+}
+.hidden{
+    display:none;
+}
+.nav{
+    display: inline;
+}
